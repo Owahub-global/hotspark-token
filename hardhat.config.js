@@ -5,8 +5,9 @@ require("dotenv").config();
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: {
-    version: "0.8.24",
+    version: "0.8.26",
     settings: {
+      evmVersion: "cancun",
       optimizer: {
         enabled: true,
         runs: 200
