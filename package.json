@@ -12,7 +12,7 @@
   "type": "commonjs",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "@nomicfoundation/hardhat-verify": "^1.1.1",
+    "@nomicfoundation/hardhat-verify": "^2.1.0",
     "dotenv": "^17.3.1",
     "hardhat": "^2.22.2"
   },
